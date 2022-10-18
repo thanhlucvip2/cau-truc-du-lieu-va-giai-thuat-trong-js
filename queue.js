@@ -24,5 +24,3 @@ function Queue() {
  * print : in ra mảng
  * isEmpty : check mảng rổng
  */
-
-const qu = new Queue();
